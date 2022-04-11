@@ -34,3 +34,9 @@ In git bash using touch command, we can create a new file
 ![image](https://user-images.githubusercontent.com/103019032/162674639-4558c6b6-bcd9-4972-ba55-9da702e11a22.png)
 - #### Record the changes made to the files to a local repository. For easy reference, each commit has a unique ID.
 ![image](https://user-images.githubusercontent.com/103019032/162675584-614752c9-aded-41a3-b8e6-259aa47055d3.png)
+- #### The git branch command lets you create, list, rename, and delete branches
+![image](https://user-images.githubusercontent.com/103019032/162676813-6799b9de-4389-4e12-993f-558b4ccaad76.png)
+- ## The git branch command lets you create, list, rename, and delete branches
+![image](https://user-images.githubusercontent.com/103019032/162677805-2fbfb3e8-daf8-4919-8abf-afbda08d743f.png)
+- #### Staging our modified files 
+![image](https://user-images.githubusercontent.com/103019032/162685942-a4f6b8c3-027e-4ff6-9988-94266c93002b.png)
