@@ -66,6 +66,8 @@ In git bash using touch command, we can create a new file
 ![image](https://user-images.githubusercontent.com/103019032/162729174-5e835c23-c87e-445a-84a1-e9e66fa075cf.png)
 - #### Create remote branch
 ![image](https://user-images.githubusercontent.com/103019032/162733987-5c10614b-3afe-46e0-bd6c-e38d23df13b8.png)
+- #### Delete remote branch
+![image](https://user-images.githubusercontent.com/103019032/162735170-b291763e-882c-48fe-876a-1bda70519918.png)
 
 
 
