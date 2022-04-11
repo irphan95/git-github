@@ -58,6 +58,12 @@ In git bash using touch command, we can create a new file
 ![image](https://user-images.githubusercontent.com/103019032/162720303-b23c9593-5b55-4d24-ac53-672eef1856c5.png)
 - #### pushing from remote
 ![image](https://user-images.githubusercontent.com/103019032/162720993-98175f27-fd89-4632-983c-bad782b1814d.png)
+- #### Inspecting a Remote
+![image](https://user-images.githubusercontent.com/103019032/162722738-2769a691-0dd4-44bf-86f8-5e81d40ec1c8.png)
+- #### Remove and rename remote
+![image](https://user-images.githubusercontent.com/103019032/162723232-e33eecda-af8e-4469-844c-e53b63bf711f.png)
+- #### Branch Management in GIT
+![image](https://user-images.githubusercontent.com/103019032/162729174-5e835c23-c87e-445a-84a1-e9e66fa075cf.png)
 
 
 
