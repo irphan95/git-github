@@ -40,3 +40,16 @@ In git bash using touch command, we can create a new file
 ![image](https://user-images.githubusercontent.com/103019032/162677805-2fbfb3e8-daf8-4919-8abf-afbda08d743f.png)
 - #### Staging our modified files 
 ![image](https://user-images.githubusercontent.com/103019032/162685942-a4f6b8c3-027e-4ff6-9988-94266c93002b.png)
+- #### Viewing Your Unstage changes 
+![image](https://user-images.githubusercontent.com/103019032/162698927-93149278-0810-4a36-9c73-aaa9a0ff9875.png)
+- #### Viewing your stage changes
+![image](https://user-images.githubusercontent.com/103019032/162699207-854df264-2a38-4d22-ad5a-9b90cd2511aa.png)
+- #### Commit change in git
+![image](https://user-images.githubusercontent.com/103019032/162704297-5bd96731-10c9-4c3f-8809-b4727ce0c2be.png)
+- #### Removing Files from GIT
+![image](https://user-images.githubusercontent.com/103019032/162708923-b09145c1-3060-4674-84a0-9352440ed114.png)
+- #### Changing Your Last Commit
+![image](https://user-images.githubusercontent.com/103019032/162711071-f96f593d-2176-4562-a89e-18db8fd6a3f9.png)
+
+
+
