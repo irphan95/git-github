@@ -54,6 +54,10 @@ In git bash using touch command, we can create a new file
 ![image](https://user-images.githubusercontent.com/103019032/162714391-4960c302-dd2d-4f32-944b-efbc297aaf52.png)
 - #### Fetching from remote
 ![image](https://user-images.githubusercontent.com/103019032/162718001-eb7386b9-dc84-4458-af98-e23e1ccdf4ad.png)
+- #### Pulling from remote
+![image](https://user-images.githubusercontent.com/103019032/162720303-b23c9593-5b55-4d24-ac53-672eef1856c5.png)
+- #### pushing from remote
+![image](https://user-images.githubusercontent.com/103019032/162720993-98175f27-fd89-4632-983c-bad782b1814d.png)
 
 
 
