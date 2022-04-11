@@ -19,8 +19,18 @@
 ![image](https://user-images.githubusercontent.com/103019032/162668949-c5e15e0e-9087-4893-9493-ee73e0814553.png)
 - #### Getting a Git Repository 
 ![image](https://user-images.githubusercontent.com/103019032/162670072-6a045c92-1078-43e2-af9c-2a9b4a796762.png)
-- #### Architecture of Git
+- ## *Architecture of Git*
 ![image](https://user-images.githubusercontent.com/103019032/162670600-5d1d4fd8-d0ce-43c9-bf75-5ba2064da6e7.png)
-- #### Working with various commands in GIT 
-
-
+- ## *Working with various commands in GIT* 
+- #### git config command is used to configuration of the user name and email address
+![image](https://user-images.githubusercontent.com/103019032/162672290-2e18fc54-5359-4d96-a630-4d0f47f61c17.png)
+- #### This command turns a directory into an empty Git repository. This is the first step in creating a repository.
+![image](https://user-images.githubusercontent.com/103019032/162672739-7a9f3a78-68e5-4c5c-8242-a9ea2acadb03.png)
+In git bash using touch command, we can create a new file
+![image](https://user-images.githubusercontent.com/103019032/162673164-edccd227-9eba-481f-bc22-3d1609dc9b0d.png)
+- #### Adds files in the to the staging area for Git
+![image](https://user-images.githubusercontent.com/103019032/162674320-b6c33b98-af8b-4ca9-b9c2-f73e05ac48bf.png)
+- #### git status will return the current working branch. If a file is in the staging area, but not committed, it shows with git status. Or, if there are no changes it’ll return nothing to commit, working directory clean.
+![image](https://user-images.githubusercontent.com/103019032/162674639-4558c6b6-bcd9-4972-ba55-9da702e11a22.png)
+- #### Record the changes made to the files to a local repository. For easy reference, each commit has a unique ID.
+![image](https://user-images.githubusercontent.com/103019032/162675584-614752c9-aded-41a3-b8e6-259aa47055d3.png)
