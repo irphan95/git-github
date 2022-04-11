@@ -50,6 +50,9 @@ In git bash using touch command, we can create a new file
 ![image](https://user-images.githubusercontent.com/103019032/162708923-b09145c1-3060-4674-84a0-9352440ed114.png)
 - #### Changing Your Last Commit
 ![image](https://user-images.githubusercontent.com/103019032/162711071-f96f593d-2176-4562-a89e-18db8fd6a3f9.png)
+- #### Adding Remote Repositories
+![image](https://user-images.githubusercontent.com/103019032/162714391-4960c302-dd2d-4f32-944b-efbc297aaf52.png)
+
 
 
 
