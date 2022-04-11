@@ -52,6 +52,8 @@ In git bash using touch command, we can create a new file
 ![image](https://user-images.githubusercontent.com/103019032/162711071-f96f593d-2176-4562-a89e-18db8fd6a3f9.png)
 - #### Adding Remote Repositories
 ![image](https://user-images.githubusercontent.com/103019032/162714391-4960c302-dd2d-4f32-944b-efbc297aaf52.png)
+- #### Fetching from remote
+![image](https://user-images.githubusercontent.com/103019032/162718001-eb7386b9-dc84-4458-af98-e23e1ccdf4ad.png)
 
 
 
