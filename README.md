@@ -26,7 +26,7 @@
 ![image](https://user-images.githubusercontent.com/103019032/162672290-2e18fc54-5359-4d96-a630-4d0f47f61c17.png)
 - #### This command turns a directory into an empty Git repository. This is the first step in creating a repository.
 ![image](https://user-images.githubusercontent.com/103019032/162672739-7a9f3a78-68e5-4c5c-8242-a9ea2acadb03.png)
-In git bash using touch command, we can create a new file
+- #### In git bash using touch command, we can create a new file
 ![image](https://user-images.githubusercontent.com/103019032/162673164-edccd227-9eba-481f-bc22-3d1609dc9b0d.png)
 - #### Adds files in the to the staging area for Git
 ![image](https://user-images.githubusercontent.com/103019032/162674320-b6c33b98-af8b-4ca9-b9c2-f73e05ac48bf.png)
